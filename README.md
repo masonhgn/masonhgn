@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @masonhgn
-- 👀 I’m interested in full stack web development and occasional 2D python game programming
+- 👀 I’m interested in data structures and algorithms, and have a history of full stack web development using Django.
 - 🌱 I’m currently learning Python, C++ and Django
-- 💞️ I’m looking to collaborate on a full stack website
+- 💞️ I’m looking to collaborate on any project that uses C++, Java, Python, Django, HTML/CSS, or Angular
 - 📫 How to reach me: email me at mh20gx@my.fsu.edu
 
 <!---
