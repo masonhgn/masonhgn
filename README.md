@@ -1,4 +1,3 @@
 ### Mason Hagan
 
-CS student
-Prospective quantitative developer. Currently working on projects related to quantitative finance. Open to any research/project opportunities.
+CS student, currently interested in functional programming and FPGA's.
